@@ -2,7 +2,7 @@
 This project is an exercise of the official [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html) guide.
 
 ## Project Overview
-Created using `rails g scaffold User`, this project enables `User` management (CRUD). However, the project itself is just the use case for testing the _Action Mailer_ feature.
+Created using `rails g scaffold User`, this project enables `User` management (CRUD). However, the project itself is just a use case for testing the _Action Mailer_ feature.
 
 The commit sequence shows the required steps:
 1. Creating the mailer: [`bin/rails g mailer User`](https://github.com/gabrielcostasilva/rails-mailer-getting-started/commit/e09cdc9296ec6e275705e7fc37ae0bb04be50ad2)
